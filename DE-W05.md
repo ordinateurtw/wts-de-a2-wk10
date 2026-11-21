@@ -1,5 +1,8 @@
 # DE-W05｜Stadt und Verkehr｜城市、位置與交通
 
+> **WBS-03.3 品質註記（v1.3）：** 已執行自動化 Markdown 結構驗證與第二輪 AI 輔助的跨篇內容審閱；不等同母語教師獨立審校。教材來源支援的是文法主題與功能句型，原創例句仍須經正式教學驗收。
+
+
 > **版本 v1.0｜WBS-03.2 第三批。** 知識說明依 L09、L11 教材整理；例句、對話及測驗為 Wiki 原創，**非教材逐字稿**。已核對主要來源頁碼，仍待獨立德語審校與使用者實測。
 
 ## 0. 學習目標
@@ -19,7 +22,7 @@
 | 距離 | *Gehen Sie noch ungefähr hundert Meter.* | 請再走大約一百公尺。 |
 | 不清楚 | *Tut mir leid, ich bin nicht von hier.* | 抱歉，我不是本地人。 |
 
-**詞彙：** *geradeaus* 直走、*links/rechts* 左／右、*die Kreuzung* 交叉路口、*die Haltestelle* 站牌、*der Bahnhof* 車站、*das Gleis* 月臺／軌道編號語境中的軌道、*der Fahrkartenautomat* 售票機。
+**詞彙：** *geradeaus* 直走、*links/rechts* 左／右、*die Kreuzung* 交叉路口、*die Haltestelle* 站牌、*der Bahnhof* 車站、*das Gleis* 軌道（車站問答中常以 Gleis 編號指示候車月臺）、*der Fahrkartenautomat* 售票機。
 
 ## 2. 交通工具：mit + Dativ（W05-C02）
 
@@ -53,7 +56,7 @@
 | 原創問句 | 中文 |
 |---|---|
 | *Wann fährt der nächste Zug nach Köln ab?* | 下一班往科隆的火車何時出發？ |
-| *Auf welchem Gleis fährt der Zug ab?* | 火車在哪個月臺／軌道發車？ |
+| *Auf welchem Gleis fährt der Zug ab?* | 火車從第幾號軌道發車？（依車站標示前往相應月臺） |
 | *Muss ich in Bonn umsteigen?* | 我需要在波昂轉車嗎？ |
 | *Wann kommt der Zug an?* | 火車何時抵達？ |
 | *Ist der Zug pünktlich?* | 火車準時嗎？ |

@@ -1,5 +1,8 @@
 # DE-W07｜Einladungen und Antworten｜邀請、回覆及說明理由
 
+> **WBS-03.3 品質註記（v1.3）：** 已執行自動化 Markdown 結構驗證與第二輪 AI 輔助的跨篇內容審閱；不等同母語教師獨立審校。教材來源支援的是文法主題與功能句型，原創例句仍須經正式教學驗收。
+
+
 > **版本 v1.0｜WBS-03.2 第三批。** 依 L14 邀請與書信單元、L10 正式詢問書信整理；對話、測驗及範本為 Wiki 原創，未複製出版社教材全文。獨立德語審校待執行。
 
 ## 0. 學習目標
@@ -16,7 +19,7 @@
 | 指定日期 | *Am zwölften Juli feiern wir zusammen.* | 我們七月十二日一起慶祝。 |
 | 邀請 | *Ich lade dich zu meiner Geburtstagsfeier ein.* | 我邀請你參加我的生日聚會。 |
 | 確認時間 | *Hast du am Samstag um 18 Uhr Zeit?* | 你星期六下午六點有空嗎？ |
-| 請回覆 | *Bitte gib mir bis Mittwoch Bescheid.* | 請在星期三之前回覆我。 |
+| 請回覆 | *Bitte gib mir bis Mittwoch Bescheid.* | 請最遲於星期三回覆我。 |
 
 **日期文法：** *der zwölfte Juli* 是主格式的日期表達；回答 *Wann?* 時常用 *am zwölften Juli*，序數詞詞尾隨格位改變。日期範圍如 *vom zweiten bis zum fünften Juli*。來源 L14 PDF p.3、8。
 
@@ -55,6 +58,8 @@
 > Bitte gib mir bis Mittwoch Bescheid.  
 > Liebe Grüße  
 > Lena
+
+**日期註記：** 此範例未指定年份，僅演示日期書寫，不將星期與日期視為已核對的真實日曆事件。
 
 **教學拆解：** 稱呼（*Liebe Anna*）→ 事由（慶生）→ 日期時間地點 → 邀請詢問 → 回覆期限 → 結尾祝福。這是**虛構教學範本**，非真實活動資訊，也非出版社原文。
 

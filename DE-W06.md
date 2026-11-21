@@ -1,5 +1,8 @@
 # DE-W06｜Service und Einkaufen｜購物、維修與服務溝通
 
+> **WBS-03.3 品質註記（v1.3）：** 已執行自動化 Markdown 結構驗證與第二輪 AI 輔助的跨篇內容審閱；不等同母語教師獨立審校。教材來源支援的是文法主題與功能句型，原創例句仍須經正式教學驗收。
+
+
 > **版本 v1.0｜WBS-03.2 第三批。** 依 L12、L13 知識內容整理；教學例句、對話、題目為原創，並非原教材全文。頁碼已對照，獨立語言審校待執行。
 
 ## 0. 學習目標
@@ -32,7 +35,7 @@
 
 **重點：** *Die Schuhe gefallen mir.* 而非 *Die Schuhe gefällt mir.*，動詞與主詞單複數一致。*passen* 既可表示衣服尺寸合適，也可表示某時間對人方便；語境不同、不要混淆。
 
-**人稱 Dativ 快速表：** ich→mir；du→dir；er→ihm；sie（單數）→ihr；wir→uns；ihr→euch；sie/Sie→ihnen/Ihnen。
+**人稱 Dativ 快速表：** ich→mir；du→dir；er/es→ihm；sie（單數）→ihr；wir→uns；ihr→euch；sie/Sie→ihnen/Ihnen。
 
 ## 3. 指示／疑問形式與比較（W06-C03）
 
