@@ -64,3 +64,8 @@
 - 全庫品質驗證報告：待補充
 - 已執行 AI 輔助審閱；獨立德語審校尚未完成。
 
+![Groq API 成功](evidence/E01_API_200.png)
+![輸出結構錯誤](evidence/E02_Schema_Error.png)
+![G2 與 429 錯誤](evidence/E03_G2_9of10_429.png)
+![三次不同主題](evidence/E04_Three_Topics.png)
+![HTML 教學成果](evidence/E05_HTML_Slide.png)
